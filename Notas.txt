@@ -1,0 +1,10 @@
+PADDING: (Relleno/envoltorio de caja) Es una propiedad que crea un área transparente alrededor del contenido de cuaLquier elemento.
+MARGIN: Es una propiedad que crea un área transparente fuera del contenido de cuaLquier elemento.
+FONT-FAMILY: Fuentes o tipos de letras.
+WIDTH: Ancho
+HEIGTH: Alto
+DISPLAY: Define el comportamiento de una página web, si el elemento se mostrará como un bloque completo o de alguna forma especial.
+box-sizing: Tamaño de caja
+
+nav/header: es una etiqueta
+. es para las clases
